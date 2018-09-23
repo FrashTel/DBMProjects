@@ -5,8 +5,15 @@
   "_id": "TxLEk",
   "actions": [
     {
-      "title": "",
-      "author": "Please Verify",
+      "input": "*",
+      "wordLength": "8",
+      "storage": "2",
+      "varName": "vcode",
+      "name": "Randomize Letters"
+    },
+    {
+      "title": "Please Verify!",
+      "author": "",
       "color": "#FFFFFF",
       "timestamp": "true",
       "url": "",
@@ -20,14 +27,14 @@
     {
       "storage": "1",
       "varName": "plsverify",
-      "message": "${tempVars(\"member\")} Can you please do !verify in the verify channel?\nAlso please note then when you verify yourself you also agree to our rules.\n\n",
+      "message": "${tempVars(\"member\")} To get access to all of our Discord Server please\ndo !verify <code> in the verify channel!\n\nCode: ${serverVars(\"vcode\")}\n\nIf you have any problems contact (Discord User).\n\nAlso please note then when you verify yourself you are also agreeing to our rules.\n",
       "name": "Set Embed Description"
     },
     {
       "storage": "1",
       "varName": "plsverify",
       "fieldName": "Rules",
-      "message": "INSERT RULES HERE!",
+      "message": "INSERT RULES HERE!\n\n\n\nThanks!",
       "inline": "0",
       "name": "Add Embed Field"
     },
