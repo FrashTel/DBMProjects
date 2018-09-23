@@ -14,7 +14,7 @@
 
 
 
-### Instrutctions
+### Instructions
 
 **Remember you must deny read access to the @everyone except the verify channel you would like to use!**
 
