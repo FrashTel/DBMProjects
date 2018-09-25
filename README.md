@@ -22,7 +22,7 @@ You can **skip Instructions #2** if you make a role called `Member`.
 
 1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version.
 2. Edit `line #1` with your role name or role id. (This is for the command)
-3. Edit `line #3` with your rules. (This is for the event)
+3. Edit `line #4` with your rules. (This is for the event)
 4. Edit `line #19` with your rules. (This is for the command)
 5. This will only delete the command message, it will still send the embed message to the same channel and command author.
 6. Feel free to make any changes to this system as you wish.
