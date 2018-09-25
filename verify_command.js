@@ -12,6 +12,13 @@
       "name": "Find Role"
     },
     {
+      "info": "1",
+      "find": "vrlogs",
+      "storage": "1",
+      "varName": "vrlogs",
+      "name": "Find Channel"
+    },
+    {
       "info": "0",
       "infoIndex": "1",
       "storage": "1",
@@ -113,6 +120,92 @@
       "varName": "verifycomplete",
       "channel": "1",
       "varName2": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "title": "Rules",
+      "author": "",
+      "color": "#FFFFFF",
+      "timestamp": "true",
+      "url": "",
+      "authorIcon": "",
+      "imageUrl": "",
+      "thumbUrl": "",
+      "storage": "1",
+      "varName": "rulesembed",
+      "name": "Create Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "",
+      "message": "Now that you have verified yourself can you please react to this \nmessgae with a :thumbsup: so we know you have been made aware and agree to our rules. \n\n",
+      "name": "Set Embed Description"
+    },
+    {
+      "storage": "1",
+      "varName": "rulesembed",
+      "fieldName": "Rules",
+      "message": "Insert Rules Here",
+      "inline": "0",
+      "name": "Add Embed Field"
+    },
+    {
+      "storage": "1",
+      "varName": "rulesembed",
+      "channel": "1",
+      "varName2": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "reaction": "1",
+      "varName": "rulesembed",
+      "info": "5",
+      "storage": "1",
+      "varName2": "rulesagree",
+      "name": "Store Reaction Info"
+    },
+    {
+      "storage": "1",
+      "varName": "rulesagree",
+      "comparison": "1",
+      "value": ":thumbsup:",
+      "iftrue": "0",
+      "iftrueVal": "",
+      "iffalse": "1",
+      "iffalseVal": "",
+      "name": "Check Variable"
+    },
+    {
+      "title": "Verify & Rules Complete Logs",
+      "author": "",
+      "color": "#FFFFFF",
+      "timestamp": "true",
+      "url": "",
+      "authorIcon": "",
+      "imageUrl": "",
+      "thumbUrl": "",
+      "storage": "1",
+      "varName": "vrcomplete",
+      "name": "Create Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "vrcomplete",
+      "message": "Thanks for verifying and agreeing to our rules!",
+      "name": "Set Embed Description"
+    },
+    {
+      "storage": "1",
+      "varName": "vrcomplete",
+      "channel": "1",
+      "varName2": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "storage": "1",
+      "varName": "vrcomplete",
+      "channel": "5",
+      "varName2": "vrlogs",
       "name": "Send Embed Message"
     },
     {
