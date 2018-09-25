@@ -31,7 +31,7 @@
       "comparison": "5",
       "value": "serverVars(\"vcode\")",
       "iftrue": "2",
-      "iftrueVal": "12",
+      "iftrueVal": "13",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Check Variable"
