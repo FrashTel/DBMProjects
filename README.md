@@ -8,7 +8,7 @@
 
 ### Info/Instructions
 
-1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version.
+1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version of DBM.
 
 
 
