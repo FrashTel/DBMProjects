@@ -14,7 +14,7 @@
 
 
 
-### Instructions
+### Info/Instructions
 
 **Remember you must deny read access to @everyone except the verify channel you would like to use!**
 
@@ -22,7 +22,7 @@ You can **skip Instructions #2** if you make a role called `Member`.
 
 You can **Skip Instructions #3 & #4** if you do no want to add your own rules.
 
-1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version.
+1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version of DBM.
 2. Edit `line #1` with your role name or role id. (This is for the command)
 3. Edit `line #4` with your rules. (This is for the event)
 4. Edit `line #19` with your rules. (This is for the command)
