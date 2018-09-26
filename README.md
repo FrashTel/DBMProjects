@@ -1,14 +1,19 @@
-# DBMProjects
-These are DBM projects that I have made public.
+# Verify System
 
 ### Commands
-Here you will find the commands I have developed and release to the DBM community.
+
+* **[Suggestion Command]()**
+
+`[p]suggest <suggestion>` - Will save the users suggestion in a channel.
+
+### Info/Instructions
+
+1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version.
 
 
 
 
+### Support
 
-### Systems/Packs
-Here you will find the systems/packs I have developed and release to the DBM community.
+If you need any help or have problems feel free to ask for it in the **[Raw Data #Support](https://discordapp.com/channels/379372685182107669/388055603320324116)** someone will help you. Please **DO NOT** ping me or dm in the server or on Discord in general. You could also open an issue request and I will get back to that asap!
 
-* **[Verify System](https://github.com/Zacwilson90/DBMProjects/tree/Verify-System)** : Here you will find my Verify System.
