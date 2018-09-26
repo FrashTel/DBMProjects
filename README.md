@@ -17,7 +17,6 @@
 ### Info
 
 When using this verify system it will send the user an embed message with a code and rules upon join. The user is then to go into the verify channel and do !verify <code> when they do this it will send them an embed with saying the code was unsuccessful or successful, if successful then it will send another embed to the user in direct messages containing the rules asking for them to react to them with a :thumbsup: emoji to agree. Lastly if they do that then it will send an embed saying that they have successfully been verified and agreed to the rules a similar embed will also be sent to a log channel. 
-
 ### Instructions
 
 **Remember you must deny read access to @everyone except the verify channel you would like to use!**
