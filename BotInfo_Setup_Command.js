@@ -62,8 +62,20 @@
     {
       "storage": "1",
       "varName": "botsetup",
-      "message": "The Bot Information System has been setup!\n\nBot Name: ${serverVars(\"botname\")}\n\nBot Description: ${serverVars(\"botdescrip\")}\n\nBot Version: ${serverVars(\"botversion\")}\n\nBot Owner: ${serverVars(\"botowner\")}\n\nBot Support Link: ${serverVars(\"botsupport\")}\n\nBot Embed Channel: ${serverVars(\"bichannel\")}",
+      "message": "The Bot Information System has been setup!\n\nBot Name: ${serverVars(\"botname\")}\n\nBot Description: ${serverVars(\"botdescrip\")}\n\nBot Version: ${serverVars(\"botversion\")}\n\nBot Owner: ${serverVars(\"botowner\")}\n\nBot Support Link: ${serverVars(\"botsupport\")}\n\nBot Embed Channel: ${serverVars(\"bichannel\")}\n\nPlease note this will look incorrect if you do not input all variables.",
       "name": "Set Embed Description"
+    },
+    {
+      "storage": "1",
+      "varName": "botsetup",
+      "channel": "1",
+      "varName2": "",
+      "name": "Send Embed Message"
+    },
+    {
+      "storage": "0",
+      "varName": "",
+      "name": "Delete Message"
     }
   ]
 }
