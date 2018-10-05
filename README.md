@@ -10,7 +10,7 @@
 
 ### Events
 
-* **[Verify Event](https://github.com/Zacwilson90/DBMProjects/blob/Verify-System/verifymessage_event.js)**
+* **[Verify Event](https://github.com/Zacwilson90/DBMProjects/blob/Verify-System/Verifymessage_Event.js)**
 
 
 
