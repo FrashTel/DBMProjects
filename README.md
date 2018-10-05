@@ -31,12 +31,12 @@
 `!botsupport <enter support link to discord>` - This will be the support link to the bot devloper's discord for support with in the embed.
 
 The following commands are **restricted** to the bot owner.
-  !bihelp
-  !botversion
-  !botchannel
-  !botname
-  !botowner
-  !botsupport
+ * !bihelp
+ * !botversion
+ * !botchannel
+ * !botname
+ * !botowner
+ * !botsupport
 
 ### Events
 
