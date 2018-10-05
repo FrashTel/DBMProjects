@@ -27,7 +27,7 @@
       "storage": "1",
       "varName": "bihelp",
       "fieldName": "Commands",
-      "message": "!botinfo - runs the main command which sends the embed containing all of the bot's information.\n\n!botversion <version of bot> - paramter here will be displayed as the bot version.\n\n!botchannel <mention a channel> - mentioned channel will be the channel that the emved message including the bot info will be sent to.\n\n!botname <enter bot name> - This will be the bot name within the embed.\n\n!botowner <enter bot owner> - This will be the bot owner within the embed.\n\n!botsupport <enter support link to discord> - This will be the support link to the bot devloper's discord for support with in the embed.",
+      "message": "!botinfo - runs the main command which sends the embed containing all of the bot's information.\n\n!bihelp - Sends the bot information help menu in an embed to the command author.\n\n!bisetup <Name of Bot> <Bot Version> <Bot Owner> <Link To Bot Support> <Mention Channel (This is where the embed contianing the info will go)> <Description Of Bot> - sets the variables needed for the bot info system to work.",
       "inline": "0",
       "name": "Add Embed Field"
     },
@@ -37,6 +37,11 @@
       "channel": "1",
       "varName2": "",
       "name": "Send Embed Message"
+    },
+    {
+      "storage": "0",
+      "varName": "",
+      "name": "Delete Message"
     }
   ]
 }
