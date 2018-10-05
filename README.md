@@ -6,7 +6,7 @@
 
 * **[Bot_Help_Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/Bot_Help_Command.js)**
 
-* **[BotSetup Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/BotInfo_Setup_Command.js)**
+* **[Bot Setup Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/BotInfo_Setup_Command.js)**
 
 `!botinfo` - runs the main command which sends the embed containing all of the bot's information.
 
