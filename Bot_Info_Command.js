@@ -159,7 +159,7 @@
     {
       "storage": "1",
       "varName": "botinfomsg",
-      "message": "Bot Name: ${serverVars(\"botname\")}\n\nBot Prefix: ${tempVars(\"botprefix\")}\n\nBot Version: ${serverVars(\"botversion\")}\n\nBot Creator/Owner: ${serverVars(\"botowner\")}\n\nBot Support: ${serverVars(\"botsupport\")}\n\nBot Uptime: ${tempVars(\"uptimehours\")} hours\n\nBot Ram Usage: ${tempVars(\"ramusage\")}\n\nBot CPU Usage: ${tempVars(\"cpuusage\")}\n\nBot Ping: ${tempVars(\"botping\")}\n\nBot Guild Amount: ${tempVars(\"guildamt\")}\n\nBot User Amount: ${tempVars(\"guildamt\")}\n\nBot Emoji Amount: ${tempVars(\"emojiamount\")}",
+      "message": "Bot Name: ${serverVars(\"botname\")}\n\nBot Description: ${serverVars(\"botdescrip\")}\n\nBot Prefix: ${tempVars(\"botprefix\")}\n\nBot Version: ${serverVars(\"botversion\")}\n\nBot Creator/Owner: ${serverVars(\"botowner\")}\n\nBot Support: ${serverVars(\"botsupport\")}\n\nBot Uptime: ${tempVars(\"uptimehours\")} hours\n\nBot Ram Usage: ${tempVars(\"ramusage\")}\n\nBot CPU Usage: ${tempVars(\"cpuusage\")}\n\nBot Ping: ${tempVars(\"botping\")}\n\nBot Guild Amount: ${tempVars(\"guildamt\")}\n\nBot User Amount: ${tempVars(\"guildamt\")}\n\nBot Emoji Amount: ${tempVars(\"emojiamount\")}",
       "name": "Set Embed Description"
     },
     {
