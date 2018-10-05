@@ -2,7 +2,7 @@
 
 ### Commands
 
-* **[Verify Command](https://github.com/Zacwilson90/DBMProjects/blob/Verify-System/verify_command.js)**
+* **[Verify Command](https://github.com/Zacwilson90/DBMProjects/blob/Verify-System/Verify_Command.js)**
 
 `[p]Verify <code>` - Will verify the user and add them to a normal user role.
 
