@@ -1,5 +1,5 @@
 # DBMProjects
-These are DBM projects that I have made public.
+These are my DBM projects that I have made public.
 
 ### Commands
 Here you will find the commands I have developed and release to the DBM community.
