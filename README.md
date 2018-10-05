@@ -2,7 +2,17 @@
 
 ### Commands
 
-* **[Suggestion Command]()**
+* **[Bot Version Command]()**
+
+* **[Bot Channel Command]()**
+
+* **[Bot Name Command]()**
+
+* **[Bot Owner Command]()**
+
+* **[Bot Support Command]()**
+
+`!botinfo` - runs the main command which sends the embed containing all of the bot's information.
 
 `!botversion <version of bot>` - paramter here will be displayed as the bot version.
 
@@ -21,7 +31,8 @@ When a user does `[p]suggest <suggestion>` it will record the suggestion and put
 ### Instructions
 
 1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version of DBM.
-2. If you want to use your own channel edit the channel name in `line #2`. (Suggest Command)
+2. Run the !bihelp command to setup the system. 
+3. You may also edit any embeds to you liking.
 
 ### Support
 
