@@ -4,7 +4,7 @@
 
 * **[Bot Info Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/Bot_Info_Command.js)**
 
-* **[Bot_Help_Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/Bot_Help_Command.js)**
+* **[Bot Help Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/Bot_Help_Command.js)**
 
 * **[Bot Setup Command](https://github.com/Zacwilson90/DBMProjects/blob/Bot-Information-System/BotInfo_Setup_Command.js)**
 
