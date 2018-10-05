@@ -4,7 +4,15 @@
 
 * **[Suggestion Command]()**
 
-`[p]suggest <suggestion>` - Will save the users suggestion in a channel.
+`!botversion <version of bot>` - paramter here will be displayed as the bot version.
+
+`!botchannel <mention a channel>` - mentioned channel will be the channel that the emved message including the bot info will be sent to.
+
+`!botname <enter bot name>` - This will be the bot name within the embed.
+
+`!botowner <enter bot owner>` - This will be the bot owner within the embed.
+
+`!botsupport <enter support link to discord>` - This will be the support link to the bot devloper's discord for support with in the embed.
 
 ### Info
 
