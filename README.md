@@ -46,7 +46,7 @@ The following commands are **restricted** to the bot owner.
 
 ### Info
 
-When a user does `[p]suggest <suggestion>` it will record the suggestion and put it in and embed and send it to the channel called `suggestions` channel.
+This system will send an embed message to a specified channel contiang the bot's name, prefix, version, creator/owner's name, support link for the bot, uptime in hours, ram and cpu usage, ping, number of guilds the bot is in, number of users the bot has, and the total emojis.
 
 ### Instructions
 
