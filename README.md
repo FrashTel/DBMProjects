@@ -2,9 +2,9 @@
 
 ### Commands
 
-* **[Slowmode Command]()**
+* **[Slowmode Command](https://github.com/Zacwilson90/DBMProjects/blob/Slowmode-System/slowmode_command.js)**
 
-* **[Slowmode check Command]()**
+* **[Slowmode check Command](https://github.com/Zacwilson90/DBMProjects/blob/Slowmode-System/slowmode_check_command.js)**
 
 `[p]slowmode <slowmode duration> <slowmode message interval>` - Will enable the slowmode system.
 
