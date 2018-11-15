@@ -1,18 +1,25 @@
-# DBMProjects
-These are my DBM projects that I have made public.
+# Slowmode System
 
 ### Commands
-Here you will find the commands I have developed and release to the DBM community.
 
+* **[Slowmode Command]()**
 
+* **[Slowmode check Command]()**
 
+`[p]slowmode <slowmode duration> <slowmode message interval>` - Will enable the slowmode system.
 
+Please note both of these parameters must be in seconds.
 
-### Systems/Packs
-Here you will find the systems/packs I have developed and release to the DBM community.
+### Info
 
-* **[Suggestion System](https://github.com/Zacwilson90/DBMProjects/tree/Suggestion-System)** : Here you will find my Suggestion System.
+When a user does `[p]slowmode <slowmode duration> <slowmode message interval>` it will enable the slowmode system.
 
-* **[Verify System](https://github.com/Zacwilson90/DBMProjects/tree/Verify-System)** : Here you will find my Verify System.
+### Instructions
 
-* **[Bot Information System](https://github.com/Zacwilson90/DBMProjects/tree/Bot-Information-System)** : Here you will find my Bot Information System.
+1. Must have latest **[Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods)** and **[Beta Version](https://discordapp.com/channels/379372685182107669/421384914219433984/493286471696908309)** version of DBM.
+2. If you want to use your own messages edit `line #4 and line #9`. (Slowmode Command)
+
+### Support
+
+If you need any help or have problems feel free to ask for it in the **[Raw Data #Support](https://discordapp.com/channels/379372685182107669/388055603320324116)** someone will help you. Please **DO NOT** ping me or dm in the server or on Discord in general. You could also open an issue request and I will get back to that asap!
+
